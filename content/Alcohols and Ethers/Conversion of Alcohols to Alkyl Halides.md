@@ -30,3 +30,4 @@ They appear to react by a mechanism that involves the formation of a carbocation
 - Here the point of difference comes in between dehydration of alcohol and formation of an alkyl halide from an alcohol.
 	- Dehydration of Alcohol:
 	  It is done at high temperatures and in presence of concentrated $H_2SO_4$. After the protonation of the hydroxyl group, $HSO_4^-$ is formed, which is a bad nucleophile. At high temperatures the highly reactive carbocation forms a more stable product in the form of alkene, which being volatile, distills from the reaction mixture as its being formed, causing the reaction equilibrium to shift towards alkene formation -> Resultant mechanism is $E1$.
+	  In some instances the carbocation also reacts with $HSO_4^-$ or sulfuric acid itself. Here they form alkyl hydrogen sulfates ($R-OSO_2OH$)

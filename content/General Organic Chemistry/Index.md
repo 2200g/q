@@ -1,0 +1,4 @@
+- [[Resonance Effect]]
+- [[Hyperconjugation]]
+- [[Electromeric Effect]]
+- [[Inductive Effect]]
