@@ -36,8 +36,7 @@
 	- Demercuration ~ Less than an hour.
 - High yield of alcohol ~>= 90%.
 > In case an alkene is treated with mercuric trifluoroacetate, $Hg(O_2CCF_3)_2$, in $THF$ containing an alcohol, $ROH$, the product is an (alkoxyalkyl)mercury compound. Treating this product with $NaBH_4 / HO^-$ results in the formation of an ether.
-> This process is called **solvomercuration-demercuration**. 
-![[Pasted image 20240731172654.png]]
+> This process is called **solvomercuration-demercuration**.![[Pasted image 20240731172654.png]]
 # Hydroboration-Oxidation
 
 ![[Pasted image 20240731182033.png]]
@@ -56,9 +55,7 @@
 - Diborane and alkyl-boranes ignite spontaneously in air (with a green flame.) Hence the solution of $BH_3:THF$ must be used in inert atmosphere and with care.
 - Both electronic and steric factors account for the anti-Markovnikov orientation of addition.
 	- The bulky boron-containing group can approach less substituted carbon atom more easily.
-	- As the 4-membered transition state approaches, electrons shift in the direction of the boron atom and away from the  more substituted atom, causing the more substituted carbon atom develop a partial positive charge. Since the carbon atom is more substituted, it is better able to accommodate the positive charge.  
-![[Pasted image 20240731180635.png]]
-![[Pasted image 20240731180741.png]]
+	- As the 4-membered transition state approaches, electrons shift in the direction of the boron atom and away from the  more substituted atom, causing the more substituted carbon atom develop a partial positive charge. Since the carbon atom is more substituted, it is better able to accommodate the positive charge.  ![[Pasted image 20240731180635.png]]![[Pasted image 20240731180741.png]]
 -  Hydroboration requires the addition of $H-$ and $-BH_2$ to the same face, causing Syn addition.
 - Oxidation of the alkylborane is regioselective and is anti-markvonikov specific.
 - Hydroboration-Oxidation is stereospecific and Syn.
