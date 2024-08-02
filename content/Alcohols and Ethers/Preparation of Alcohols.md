@@ -90,6 +90,23 @@ Grignard Reagents are very useful since it is possible to prepare any alcohol we
 > Addition to $\alpha,\beta$-unsaturated carbonyl compounds.
 > ![[Pasted image 20240803014820.png]]
 > Presence of $\alpha$-branching reduces 1,2-addition heavily, and increases 1,4-addition.
+
+### Restrictions and Limitations on the use of Grignard Reagents
+
+> Grignard Reagents have extraordinary reactivity as base and nucleophile.
+> Effectively, it contains a carbanion.
+
+It is not possible to prepare a Grignard Reagent from a compound that contains any hydrogen more acidic than the hydrogen atoms of an alkane or alkene.
+
+If we were to do so, the formation would either fail or instantly be neutralized by the acidic groups.
+
+> ![[Pasted image 20240803020526.png]]
+
+This means that  when we prepare Grignard reagents we are limited to alkyl halides or to analogous organic halides containing carbon-carbon double bonds, internal triple bonds, ether linkages, and $-NR_2$ groups.
+
+We can use the limitation of acetylenic hydrogens being acidic enough to react with grignard reagents by allowing terminal alkynes to react with alkyl grignard reagents.![[Pasted image 20240803021029.png]]
+
+- When synthesizing, make sure to account for acid-base reactions with Grignard first.  
 ## Organolithium Reagents
 
 > Organolithium Reagents have the advantage of being more reactive than Grignard Reagents, while also reacting in the same way as Grignard Reagents.
@@ -101,3 +118,52 @@ Grignard Reagents are very useful since it is possible to prepare any alcohol we
 > Sodium alkynides react with aldehydes and ketones to yield alcohols.
 
 ![[Pasted image 20240803011520.png]]
+
+## Lithium Aluminium Hydride (LAH) and Sodium Borohydride
+
+> Carboxylic acids and esters are especially hard to reduce, but LAH is a strong enough reducing agent to reduce carboxylic acids and esters. 
+
+> LAH reacts violently with proton donors to release hydrogen gas. Hence, reductions with LAH must be carried out in anhydrous medium (such as anhyd. ether.)
+
+- LAH reduction of an ester yields two alcohols, one from the carbonyl part, the other from the alkoxyl part.
+- Sodium borohydride is usually preferred over LAH for the reduction of aldehydes and ketones, as it can react safely and effectively in water as well as alcohol solvents.
+### LAH
+![[Pasted image 20240803030111.png]]
+
+| Atom | Attached to | Origin            |
+| ---- | ----------- | ----------------- |
+| H    | O           | Solvent           |
+| H    | C           | Hydride           |
+| O    | C           | Initial Substrate |
+- 2 reactions.
+- Involves the formation of a cyclic transition state.
+- In case of Carboxylic acids, both of the hydrogens are from the hydride.
+	![[Pasted image 20240803030744.png]]
+- In case of Esters, the hydroxyl group on $R_2$ is from the solvent and the two hydrogens and hydroxyl group on $R_1$ is from the hydride.
+	![[Pasted image 20240803030452.png]]
+> LAH can also be used to reduce alkyl halides to hydrocarbons.
+### Sodium Borohydride
+![[Pasted image 20240803031122.png]]
+
+| Atom | Attached to | Origin            |
+| ---- | ----------- | ----------------- |
+| H    | O           | Solvent           |
+| H    | C           | Hydride           |
+| O    | C           | Initial Substrate |
+- Single reaction. 
+- $NaBH_4$ is not strong enough of a reducing agent to be able to reduce carboxylic acids and esters.
+## Catalytic Hydrogenation
+![[Pasted image 20240803033143.png]]
+- Catalyst: $Ni$, $Co$, $Pd$, $Pt$, $Fe$.
+- Support: $Al_2O_3$, $C$, $SiO_2$.
+## Pinacol Coupling
+![[Pasted image 20240803033527.png]]
+- Mg(Hg) is called magnesium amalgam. 
+## Meerwein-Ponndorf-Verley Reduction (MPV)
+It is the reverse of Oppenauer oxidation.
+## Bouveault-Blanc Reduction
+# From Amines
+![[Pasted image 20240803035101.png]]
+Objective is for the formation of $R-A$ to be less and $R-OH$ to be more.
+$-A$ is a bulky species, that slows down activity. It helps reduce the formation of $R-A$.
+A good $H-A$ is $H_3PO_4$. It is non oxidizing and $H_2PO_4^-$ is a bad nucleophile and therefore won't cause substitution.
