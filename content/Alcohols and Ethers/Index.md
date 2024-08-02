@@ -5,3 +5,5 @@
 - [[Dehydration of Alcohol]]
 - [[Alcohols as Acids]]
 - [[Conversion of Alcohols to Alkyl Halides]]
+- [[Preparation of Alcohols from Alkyl Halides]]
+- [[Preparation of Alcohols from Carbonyl Compounds]]
