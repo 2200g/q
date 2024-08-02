@@ -1,3 +1,7 @@
+---
+date: 2024-07-31
+---
+
 - Boiling Point of ether is comparable with that of a hydrocarbon of same molecular mass.
 - Alcohols have much higher boiling points than comparable ethers or hydrocarbons.
 > (This is due to alcohols being capable of forming strong hydrogen bonding.)

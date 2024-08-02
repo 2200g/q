@@ -1,5 +1,8 @@
-#Preparation-Alcohols 
-# Acid-Catalyzed Hydration
+---
+date: 2024-08-02
+---
+# From Alkenes
+## Acid-Catalyzed Hydration
 
 ![[Pasted image 20240731154205.png]]
 
@@ -14,7 +17,7 @@
 - The rate determining step is the formation of carbocation.
 - Rearrangement is possible due to carbocation formation.
 - Not generally used to synthesize alcohols due to rearrangements causing isomeric alcohol products to form.
-# Oxymercuration-Demercuration
+## Oxymercuration-Demercuration
 
 ![[Pasted image 20240731161058.png]]
 
@@ -37,7 +40,7 @@
 - High yield of alcohol ~>= 90%.
 > In case an alkene is treated with mercuric trifluoroacetate, $Hg(O_2CCF_3)_2$, in $THF$ containing an alcohol, $ROH$, the product is an (alkoxyalkyl)mercury compound. Treating this product with $NaBH_4 / HO^-$ results in the formation of an ether.
 > This process is called **solvomercuration-demercuration**.![[Pasted image 20240731172654.png]]
-# Hydroboration-Oxidation
+## Hydroboration-Oxidation
 
 ![[Pasted image 20240731182033.png]]
 
@@ -59,3 +62,42 @@
 -  Hydroboration requires the addition of $H-$ and $-BH_2$ to the same face, causing Syn addition.
 - Oxidation of the alkylborane is regioselective and is anti-markvonikov specific.
 - Hydroboration-Oxidation is stereospecific and Syn.
+# From Carbonyl Compounds
+## Grignard Reagents
+Grignard Reagent react with carbonyl compounds, which are highly susceptible to nucleophilic attacks, to form alcohols.
+Grignard Reagents are very useful since it is possible to prepare any alcohol we wish by paying special attention to the groups attached to the hydroxyl-carbon.
+
+![[Pasted image 20240802191622.png]]
+
+-> (Step 1) Nucleophilic addition to carbonyl group. ![[Pasted image 20240802204755.png]]
+	- The grignard reagent uses its electron pair to form a bond with the carbon atom.
+	- The previous C=O bonding pair shifts to the oxygen atom and it results in the formation of an halomagnesiumalkoxide ion.
+	- This reaction is done in an ether solvent.
+-> (Step 2) Nucleophilic addition to carbonyl group. ![[Pasted image 20240802204948.png]]
+	- The addition of aqueous $HX$ causes protonation of the alkoxide ion. 
+	- Note: If the alcohol is tertiary it maybe susceptible to acid-catalyzed dehydration. In such cases, a solution of $NH_4Cl$ in water is often used as it is acidic enough to convert $ROMgX$ to $ROH$ while not allowing acid-catalyzed reactions of the resulting t-alcohol.
+
+> Example of a grignard reagent reacting with an ester.
+> ![[Pasted image 20240803011820.png]]
+
+> Example of a few reactions:
+> ![[Pasted image 20240803012509.png]]
+
+> When Grignard Reagent and Substrate are both sterically hindered, the Grignard Reagent acts as a reducing agent.
+> Presence of H, which is capable for deprotonation and the possibility of a double bond to be formed must also be there.
+> ![[Pasted image 20240803013411.png]]
+
+> Addition to $\alpha,\beta$-unsaturated carbonyl compounds.
+> ![[Pasted image 20240803014820.png]]
+> Presence of $\alpha$-branching reduces 1,2-addition heavily, and increases 1,4-addition.
+## Organolithium Reagents
+
+> Organolithium Reagents have the advantage of being more reactive than Grignard Reagents, while also reacting in the same way as Grignard Reagents.
+
+![[Pasted image 20240803011343.png]]
+
+## Sodium Alkynides
+
+> Sodium alkynides react with aldehydes and ketones to yield alcohols.
+
+![[Pasted image 20240803011520.png]]

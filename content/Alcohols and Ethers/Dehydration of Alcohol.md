@@ -1,3 +1,6 @@
+---
+date: 2024-08-01
+---
 > Most alcohols undergo dehydration to form alkenes, when heated with a strong acid. -> Elimination reaction.
 
 (Difficulty in dehydration) 1$\degree$ > 2$\degree$ > 3$\degree$.

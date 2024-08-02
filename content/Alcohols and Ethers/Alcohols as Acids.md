@@ -1,3 +1,6 @@
+---
+date: 2024-08-01
+---
 - Alcohols have acidities similar to that of water.
 - Sterically hindered alcohols are less acidic, causing their conjugate bases to be highly basic.
 	- With an unhindered alcohol, solvent molecules can easily surround, solvate and hence stabilize the alkoxide anion formed by the loss of alcohol proton to a base. Hence the acidity of unhindered alcohols increases as in this case the formation of conjugate base is easier.

@@ -14,3 +14,4 @@ My notes on organic chemistry (from the JEE point of view.)
 	- [[Hydrocarbons/Alkenes/Index|Alkenes]]
 	- [[Hydrocarbons/Alkynes/Index|Alkynes]]
 - [[Alcohols and Ethers/Index|Alcohols and Ethers.]]
+- [[Miscellaneous/Index|Misc.]]

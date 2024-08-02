@@ -1,3 +1,6 @@
+---
+date: 2024-07-31
+---
 ![[Pasted image 20240731203007.png]] 
 - Oxygen atom of Hydroxyl group
 	- Weakly Basic (Due to lone-pairs.)

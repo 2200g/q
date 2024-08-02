@@ -1,3 +1,6 @@
+---
+date: 2024-08-01
+---
 > Since the hydroxyl group is a poor leaving group, it is first converted into a group that can depart as a weak base.
 
 > These processes begin by reaction of alcohol oxygen as a base or nucleophile, after which the modified oxygen group undergoes substitution.
