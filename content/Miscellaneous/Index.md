@@ -1,1 +1,2 @@
-- [[Miscellaneous/Corey-Posner, Whitesides-House Synthesis|Lithium Dialkylcuprates]]
+- [[Nucleophiles and Electrophiles]]
+- [[Miscellaneous/Corey-Posner, Whitesides-House Synthesis|Corey-Posner, Whitesides-House alkane synthesis (use of Lithium Dialkylcuprates)]]

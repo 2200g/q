@@ -5,5 +5,5 @@
 - [[Elimination Unimolecular]] ($E1$)
 - [[Elimination Internal]] ($Ei$)
 - [[Elimination Unimolecular Conjugate Base]] ($E1CB$)
-- [[Substitution v/s Elimination]]
+- [[Substitution vs Elimination]] 
 - [[Stereochemistry of Addition and Elimination Reactions]]
