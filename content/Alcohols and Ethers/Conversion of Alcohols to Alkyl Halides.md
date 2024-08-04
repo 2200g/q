@@ -16,8 +16,8 @@ Commonly used reagents:
 | $HX$/Alcohol | 1$\degree$ | 2$\degree$ | 3$\degree$ |
 | ------------ | ---------- | ---------- | ---------- |
 | $HCl$        | $ZnCl_2$   | $ZnCl_2$   | $ZnCl_2$   |
-| $HBr$        | $ZnBr_2$   | $ZnBr_2$   | &#x2718    |
-| $HI$         | &#x2718    | &#x2718    | &#x2718    |
+| $HBr$        | $ZnBr_2$   | $ZnBr_2$   | X          |
+| $HI$         | X          | X          | X          |
 ^The-table-refers-to-the-need-of-use-of-catalysts
 - (Order of reactivity for Alcohols) 3$\degree$ > 2$\degree$ > 1$\degree$ < 0$\degree$
 - (Order of reactivity for Hydrogen Halides) $HI$ > $HBr$ > $HCl$ ($HF$ is generally unreactive.)
@@ -57,9 +57,9 @@ Primary alcohols and methanol react to form alkyl halides under acidic condition
 
 | $X$  | $PX_3$                              | $PX_5$                               |
 | ---- | ----------------------------------- | ------------------------------------ |
-| $Cl$ | &#x2713                             | &#x2713                              |
-| $Br$ | &#x2713                             | $red \space P. \space + \space Br_2$ |
-| $I$  | $red \space P. \space + \space I_2$ | &#x2718                              |
+| $Cl$ | Yes                                 | Yes                                  |
+| $Br$ | Yes                                 | $red \space P. \space + \space Br_2$ |
+| $I$  | $red \space P. \space + \space I_2$ | No                                   |
 ^the-table-refers-to-allowed-use-of-halides
 - For $SOX_2$, $X$ can either be $Cl$ or $Br$.
 ## $PX_5$
