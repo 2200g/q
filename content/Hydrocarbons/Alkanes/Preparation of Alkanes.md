@@ -68,16 +68,29 @@ Unsaturated compounds can be reduced to saturated compounds by catalytic hydroge
 ## Reduction with Zinc Alcohol
 
 ![[Pasted image 20240803202211.png]]
+
 > $X^-$ is more stable than $EtO^-$.
-
-
-
 # From Alcohols
 It is not possible to synthesize alkanes from alcohols.
 # From Carbonyl Compounds
 ## Clemmensen Reduction
+![[Pasted image 20240809233554.png]]
+
+> This reaction is not effective for those substrates which contain acid-sensitive groups.
+> Zinc and Hydrochloric acid also reduces nitro groups to amino groups.
 ## Wolff-Kishner Reduction
+
+> It can be thought to complement [[#Clemmensen Reduction]] as that occurs under acidic condition, while this in basic.
+
+![[Pasted image 20240809234908.png]]
+
+> Note that the hydrogen is not from the base, nor from the hydrazine but rather from the solvent, (in this case $H_2O$). Another solvent that commonly is used is Ethylene Glycol ($HOCH_2CH_2OH$).
 ## Mozingo Reduction
+
+![[Pasted image 20240810000943.png]]
+
+> Desulfurization with Hydrogen and Raney Nickel.
+
 ## Carboxylation
 ### Kolbe's Electrolysis Method
 ### Soda-lime Distillation

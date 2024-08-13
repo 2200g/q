@@ -1,0 +1,3 @@
+> Will be done manually later.
+
+The rule states that with the addition of a [protic acid](https://en.wikipedia.org/wiki/Protic_acid "Protic acid") HX or other polar reagent to an asymmetric [alkene](https://en.wikipedia.org/wiki/Alkene "Alkene"), the acid hydrogen (H) or electropositive part gets attached to the carbon with more hydrogen substituents, and the [halide](https://en.wikipedia.org/wiki/Halide "Halide") (X) group or electronegative part gets attached to the carbon with more alkyl substituents. This is in contrast to Markovnikov's original definition, in which the rule is stated that the X component is added to the carbon with the fewest hydrogen atoms while the hydrogen atom is added to the carbon with the greatest number of hydrogen atoms.

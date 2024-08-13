@@ -1,4 +1,3 @@
-# Alcohols and Ethers
 - [[Physical Properties]]
 - [[Preparation of Alcohols]]
 - [[Electron Distribution in an Alcohol]]

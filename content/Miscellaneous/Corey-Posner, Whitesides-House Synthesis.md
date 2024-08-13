@@ -1,9 +1,6 @@
----
-date: 2024-08-02
----
 > It is a versatile method for the synthesis of alkanes and other hydrocarbons from organic halides.
 
-> The mechanism is beyond the scope of our syllabus. ($S_N2$)
+> The mechanism is beyond the scope of our syllabus. (Take it to be $S_N2$)
 
 ![[Pasted image 20240802213314.png]]
 
